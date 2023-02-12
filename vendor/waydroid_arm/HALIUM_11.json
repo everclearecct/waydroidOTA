@@ -6,7 +6,7 @@
             "id": "a36a19c155acd9fb94b7cc876327b07aee17afae6eb407c2b02cf0db2dd15c8b",
             "romtype": "HALIUM_11",
             "size": 22840488,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230211-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230211-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -15,7 +15,7 @@
             "id": "c7157c5c650f6fc583cf31129402538db5233bd19a41b9d114b58f450538d9ef",
             "romtype": "HALIUM_11",
             "size": 22840491,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230204-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230204-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -24,7 +24,7 @@
             "id": "796a239b33f2b625810a82b03512573b137ffc6a90e27cb40d6f42c5f40253a9",
             "romtype": "HALIUM_11",
             "size": 22840583,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230128-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230128-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -33,7 +33,7 @@
             "id": "6ae687e0de0269ef78da915eedb1d2ee4e7cb0ea199960e022161ba22a4fd1fb",
             "romtype": "HALIUM_11",
             "size": 22633767,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230119-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230119-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -42,7 +42,7 @@
             "id": "a24524fb3cb1c1984f2f6afcaae7d8f2b4fb6567ef680b3a88820eb77748b3e9",
             "romtype": "HALIUM_11",
             "size": 22603935,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230114-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230114-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -51,7 +51,7 @@
             "id": "75795dc48828d0c1f8c81175988a0ec86073cfb7e1c7365e543f4df84e00ae50",
             "romtype": "HALIUM_11",
             "size": 22599837,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230107-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20230107-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -60,7 +60,7 @@
             "id": "d8159e046b5eb3075be98396a1965ac199772daf0187386115cc861160d37eba",
             "romtype": "HALIUM_11",
             "size": 22599103,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221231-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221231-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -69,7 +69,7 @@
             "id": "2d3de78a44a25ce1a9d08f39f0fe82bac3aa4d8e69a2b9c39abb9b030fb68620",
             "romtype": "HALIUM_11",
             "size": 22570126,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221224-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221224-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -78,7 +78,7 @@
             "id": "591fc1321d0e604e538b1c649634caa7097978380f3133f89e494a46446e0beb",
             "romtype": "HALIUM_11",
             "size": 22570181,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221217-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221217-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -87,7 +87,7 @@
             "id": "6c9f9178c6fed49b4b5e67ea728dd374e412026c520d52f70b2f47bc9c150572",
             "romtype": "HALIUM_11",
             "size": 22570136,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221210-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221210-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -96,7 +96,7 @@
             "id": "ea6cbcea1f150bd72bd8f5805da9072f40ebfa10b67bb3a577d95df8ae659fad",
             "romtype": "HALIUM_11",
             "size": 22570167,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221206-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221206-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -105,7 +105,7 @@
             "id": "dc225ec44e7d049f7b697ccc8a7f7673d28b4c462734ef61772d8cbdf809bcee",
             "romtype": "HALIUM_11",
             "size": 22570085,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221110-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221110-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -114,7 +114,7 @@
             "id": "f4f363d26aa46f8b74134d13f291a3bbfa3559c844f36f77971ca7db3646890a",
             "romtype": "HALIUM_11",
             "size": 22570033,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221107-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221107-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         },
         {
@@ -123,7 +123,7 @@
             "id": "9808cd679e7855aefd7e3da5e04acc6537d4640c801a8c609601a2bfaffa5942",
             "romtype": "HALIUM_11",
             "size": 22570039,
-            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221105-HALIUM_11-waydroid_arm-vendor.zip/download",
+            "url": "https://sourceforge.net/projects/waydroid/files/images/vendor/waydroid_arm/lineage-18.1-20221105-HALIUM_11-waydroid_arm-vendor.zip/download?use_mirror=jaist",
             "version": "18.1"
         }
     ]
